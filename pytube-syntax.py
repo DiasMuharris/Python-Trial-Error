@@ -29,3 +29,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+video_path = 'C:\\Users\\Asus\\Documents\\Testing and Learning VSCode\\temp_video.mp4'
+pygame.mixer.music.load(video_path)
